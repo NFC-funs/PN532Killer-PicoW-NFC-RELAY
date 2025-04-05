@@ -19,7 +19,11 @@ Devices:
 
 Demo video(Phone read Ntag215, App TagInfo):
 
-https://github.com/user-attachments/assets/87ee9b84-d57e-41f3-a77a-ea32ed96e004
+
+
+https://github.com/user-attachments/assets/feacffe3-3a49-4efc-8bcb-78e733e99a6b
+
+
 
 Performance:
 
