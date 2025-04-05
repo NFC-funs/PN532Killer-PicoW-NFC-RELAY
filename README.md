@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/87ee9b84-d57e-41f3-a77a-ea32ed96e004
 
 Performance:
 
+The yellow line indicates the PN532Killer tag emulator uart tx.
+The purple line indicates the PN532Killer tag emulator uart rx.
 The FDT is about 5-7ms.
 
 ![NFC Relay FDT](https://github.com/user-attachments/assets/8385b77c-8824-4429-8d64-7ab47a677f41)
