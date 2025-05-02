@@ -1,7 +1,7 @@
 # PN532Killer-PicoW-NFC-RELAY
 NFC Relay Based on PN532Killer&amp;Raspberry Pi PicoW
 
-###Project ideas
+## Project ideas
 
 PN532Killer can be used as a NFC reader or a tag emulator.
 
@@ -12,12 +12,12 @@ Raspberry Pi PicoW built in WIFI&BLE, so it is ideal for data transfer.
 Data flow:
 PN532Killer1(reader) <--uart--> PicoW1 <--    wifi    --> PicoW2 <--uart--> PN532Killer2(tag emulator)
 
-###Devices:
+## Devices:
 
 ![NFC Realy Reader-Tag-Half](https://github.com/user-attachments/assets/d9af2d87-4cbf-48e2-94da-98c631ce651d)
 
 
-###Demo video(Phone read Ntag215, App TagInfo):
+## Demo video(Phone read Ntag215, App TagInfo):
 
 
 
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/feacffe3-3a49-4efc-8bcb-78e733e99a6b
 
 
 
-###Performance:
+## Performance:
 
 The yellow line indicates the PN532Killer tag emulator uart tx.
 The purple line indicates the PN532Killer tag emulator uart rx.
